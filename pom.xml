@@ -17,7 +17,7 @@
         <maven.compiler.target>${java.version}</maven.compiler.target>
 
         <spring-boot.version>2.7.18</spring-boot.version>
-        <spring-jdbc.version>5.3.37</spring-jdbc.version>
+        <spring-jdbc.version>6.1.14</spring-jdbc.version>
         <slf4j.version>2.0.13</slf4j.version>
         <druid.version>1.2.23</druid.version>
         <fastjson.version>1.2.83</fastjson.version>
